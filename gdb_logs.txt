@@ -1,0 +1,6 @@
+ 1  run testcases/basic_add.s
+    2  backtrace
+    3  q
+    4  run testcases/basic_div.s
+    5  q
+    6  show commands
